@@ -17,4 +17,5 @@ window.document.write('<img src="function.jpg" width="500" height="300"<br /><br
 let z;
 z = 9*Math.random()-2;
 window.document.write("Случайный аргумент: <b>" + z + "</b><br>");
-window.document.write("Значение функции: <b>" + fun(z) + "</b><br>");
+window.document.write("Значение функции: <b>" + fun(z) + "</b><br><br>");
+window.document.write('<img src="function.jpg" width="700" height="500"<br /><br />');
